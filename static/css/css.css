@@ -1,5 +1,5 @@
 body{
-    background-color: lightgray;
+    background-color: rgba(13,237,255,0.5);
     font-family: Times New Roman serif;
     font-size: 20px;
 }
@@ -30,4 +30,9 @@ p{
     justify-content: center;
     background-color: rgba(11,157,172,0.5);
     height: 80px;
+}
+
+#body_section{
+    text-align: left;
+    background-color: rgba(17,176,255,0.5);
 }
