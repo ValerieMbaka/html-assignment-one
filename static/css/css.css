@@ -7,9 +7,12 @@ body{
 button{
     width: 80px;
     padding: 2px;
-    border: rgba(17,176,255,0.81);
     font-family: Times New Roman serif;
     font-size: 20px;
+    background-color: rgba(249,149,255,0.81);
+    border-radius: 5px;
+    border-color: black;
+    border-collapse: collapse;
 }
 
 h2{
@@ -20,4 +23,9 @@ h2{
 p{
     font-size: 20px;
     font-family: cursive;
+}
+
+#banner_section{
+    text-align: center;
+    justify-content: center;
 }
