@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(13,237,255,0.81);
+    font-family: Times New Roman serif;
+    font-size: 20px;
+}
+
+button{
+    width: 80px;
+    padding: 2px;
+    border: rgba(17,176,255,0.81);
+    font-family: Times New Roman serif;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+p{
+    font-size: 20px;
+    font-family: cursive;
+}
